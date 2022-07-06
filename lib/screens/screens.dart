@@ -1,0 +1,9 @@
+export 'package:peliculasdos/features/auth/screens/checkauth_screen.dart';
+export 'package:peliculasdos/features/auth/screens/login_screen.dart';
+export 'package:peliculasdos/features/auth/screens/register_screen.dart';
+export 'package:peliculasdos/features/home/screens/home_screen.dart';
+export 'package:peliculasdos/features/movie_detail/screens/details_screen.dart';
+export 'package:peliculasdos/features/navigation/screens/navigation_screen.dart';
+export 'package:peliculasdos/features/user_collection/screens/profile_screen.dart';
+export 'package:peliculasdos/models/models.dart';
+export 'package:peliculasdos/features/user_collection/screens/add_screen.dart';
