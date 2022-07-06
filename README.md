@@ -1,4 +1,4 @@
-# peliculasdos
+# MoviesApp
 
 A new Flutter project.
 
